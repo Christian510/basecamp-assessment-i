@@ -1,7 +1,6 @@
 // #1 create a variable called 'myName' and assign it to your name as a string
 
-// CODE HERE
-
+let myName = "Christian";
 // #2 create a variable called 'faveNum' and assign it to your favorite number
 
 // CODE HERE
